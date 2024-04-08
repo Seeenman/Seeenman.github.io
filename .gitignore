@@ -1,0 +1,9 @@
+# emacs ignores
+*.emacs.desktop
+*~
+
+# apple files
+*.icloud
+.icloud*
+*.DS_Store
+.DS_Store*
